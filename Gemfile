@@ -24,7 +24,7 @@ group :development do
   gem 'quiet_assets'
   gem 'rails_layout'
 end
-group :priduction do
+group :production do
   gem 'pg'
   gem 'rails_12factor'
   gem 'thin'
